@@ -79,3 +79,15 @@
     10.Add urs.ts to frontend
     11.Add HttpClient module
     12.Update food service
+12. Login Page
+    1.Generate component
+        1.Add to routes
+        2.Add ts
+        3. Add html
+            1. Import Reactive Forms Module
+        4.Add Css
+    2. Add login Api
+        1. Use Json
+        2. Add Jsonwebtoken
+        3. Test Using Postman
+    3.
